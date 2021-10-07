@@ -1,0 +1,17 @@
+.speakerCardWrapper{
+    padding: 150px; 
+
+}
+
+.speakerCard{
+    padding: 50px;
+}
+
+.speakerCard > *{
+    margin-bottom: 50px;
+}
+
+.img-thumbnail{
+    border: none;
+    border-radius: 15px;
+}
