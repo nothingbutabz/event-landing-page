@@ -1,0 +1,22 @@
+.speakerCardWrapper{
+    padding: 150px; 
+    font-size: smaller;
+    font: 1em sans-serif;
+    background-color: chartreuse;
+
+}
+
+.speakerCard{
+    padding: 50px;
+    background-color: chartreuse
+}
+
+.speakerCard > *{
+    margin-bottom: 50px;
+    background-color: chartreuse;
+}
+
+.img-thumbnail{
+    border: none;
+    border-radius: 15px;
+}
